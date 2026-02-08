@@ -1,8 +1,8 @@
 {
   "version": 1,
   "base_track": "青のすみか (Acoustic)",
-  "base_artist": "Tatsuya Kitani",
-  "createdAt": "2025-12-13T11:02:22.414151Z",
+  "base_artist": "キタニタツヤ",
+  "createdAt": "2026-02-08T07:07:36.913639Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -99,70 +99,6 @@
       "artist": "キタニタツヤ",
       "has_synced": false,
       "path": "select/pl_01_青のすみか_キタニタツヤ.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "青のすみか",
-      "artist": "キタニタツヤ",
-      "has_synced": false,
-      "path": "select/pl_02_青のすみか_キタニタツヤ.txt"
-    },
-    {
-      "id": "petitlyrics_3",
-      "source": "petitlyrics",
-      "title": "青のすみか",
-      "artist": "キタニタツヤ",
-      "has_synced": false,
-      "path": "select/pl_03_青のすみか_キタニタツヤ.txt"
-    },
-    {
-      "id": "petitlyrics_4",
-      "source": "petitlyrics",
-      "title": "青のすみか",
-      "artist": "キタニタツヤ",
-      "has_synced": false,
-      "path": "select/pl_04_青のすみか_キタニタツヤ.txt"
-    },
-    {
-      "id": "petitlyrics_5",
-      "source": "petitlyrics",
-      "title": "青のすみか",
-      "artist": "キタニタツヤ",
-      "has_synced": false,
-      "path": "select/pl_05_青のすみか_キタニタツヤ.txt"
-    },
-    {
-      "id": "petitlyrics_6",
-      "source": "petitlyrics",
-      "title": "青のすみか",
-      "artist": "キタニタツヤ",
-      "has_synced": false,
-      "path": "select/pl_06_青のすみか_キタニタツヤ.txt"
-    },
-    {
-      "id": "petitlyrics_7",
-      "source": "petitlyrics",
-      "title": "青のすみか - From THE FIRST TAKE",
-      "artist": "キタニタツヤ",
-      "has_synced": false,
-      "path": "select/pl_07_青のすみか_-_From_THE_FIRST_TAKE_キタニタツヤ.txt"
-    },
-    {
-      "id": "petitlyrics_8",
-      "source": "petitlyrics",
-      "title": "青のすみか (Acoustic ver.)",
-      "artist": "キタニタツヤ",
-      "has_synced": false,
-      "path": "select/pl_08_青のすみか_(Acoustic_ver.)_キタニタツヤ.txt"
-    },
-    {
-      "id": "petitlyrics_9",
-      "source": "petitlyrics",
-      "title": "青のすみか(Acoustic ver.)",
-      "artist": "キタニタツヤ",
-      "has_synced": false,
-      "path": "select/pl_09_青のすみか(Acoustic_ver.)_キタニタツヤ.txt"
     }
   ]
 }
